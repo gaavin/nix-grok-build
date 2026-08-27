@@ -9,9 +9,6 @@
 
 </div>
 
-> [!WARNING]
-> **This project was primarily written by an LLM (AI). Review the code yourself before running it. Use at your own risk.**
-
 [Grok Build](https://x.ai/cli) is xAI's terminal coding agent (`grok`). This flake packages the official Linux binaries for `x86_64-linux` and `aarch64-linux` so you can install it declaratively with flakes and Home Manager.
 
 A SuperGrok or X Premium Plus subscription is required to use the agent after install.
